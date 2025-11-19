@@ -1,7 +1,3 @@
 Python 
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Sciket-learn
-Google.colab
+Jupyter-Notebook
+openCV
