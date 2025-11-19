@@ -1,0 +1,7 @@
+Python 
+Numpy
+Pandas
+Matplotlib
+Seaborn
+Sciket-learn
+Google.colab
